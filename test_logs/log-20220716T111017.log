@@ -1,0 +1,4 @@
+11:10:21.205 [Test worker] INFO  pages.HomePage - Navigate to --> https://www.linkedin.com/home
+11:10:21.557 [Test worker] INFO  pages.HomePage - User email: pinhas.konde@gmail.com
+11:10:21.557 [Test worker] INFO  pages.HomePage - User password: .AbcdeFg2000
+11:10:22.756 [Test worker] INFO  pages.HomePage - clickSignInButton -- is displayed?	true

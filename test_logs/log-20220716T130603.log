@@ -1,0 +1,4 @@
+13:06:07.522 [Test worker] INFO  pages.HomePage - Navigate to --> https://www.linkedin.com/home
+13:06:07.524 [Test worker] INFO  pages.HomePage - User email: pinhas.konde@gmail.com
+13:06:07.524 [Test worker] INFO  pages.HomePage - User password: .AbcdeFg2000
+13:06:09.221 [Test worker] INFO  pages.HomePage - 	[[ChromeDriver: chrome on MAC (75fcf33b8e31705c8a518596d947c321)] -> xpath: //div[@id='error-for-username']]

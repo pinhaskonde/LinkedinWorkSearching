@@ -1,0 +1,4 @@
+13:10:47.204 [Test worker] INFO  pages.HomePage - Navigate to --> https://www.linkedin.com/home
+13:10:47.206 [Test worker] INFO  pages.HomePage - User email: pinhas.konde@gmail.com
+13:10:47.207 [Test worker] INFO  pages.HomePage - User password: .AbcdeFg2000
+13:10:48.934 [Test worker] INFO  pages.HomePage - 

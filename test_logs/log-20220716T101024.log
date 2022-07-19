@@ -1,0 +1,2 @@
+10:10:28.344 [Test worker] INFO  pages.HomePage - Navigate to --> https://www.linkedin.com/home
+10:10:30.071 [Test worker] INFO  pages.HomePage - clickSignInButton -- >
